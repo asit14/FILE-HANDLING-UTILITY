@@ -23,11 +23,11 @@ Read File: Displays the contents of the file line by line to the console.
 Modify File: Enables users to replace a specific word in the file with another word throughout the entire content.
 
 🧪 Example Operations
-Input: "akash is learning java."
+Input: "asit is learning java."
 
-Modify: Replace "akash" with "puja"
+Modify: Replace "asit" with "liku"
 
-Output: "puja is learning java."
+Output: "liku is learning java."
 
 These features demonstrate the use of Java classes like FileWriter, BufferedReader, Scanner, and string manipulation techniques.
 
